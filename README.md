@@ -68,6 +68,26 @@ The Power BI report includes five interactive dashboard pages covering:
 - Payment and order analysis
 - Delivery performance and customer reviews
 
+- ### Executive Overview
+
+![Executive Overview](Screenshot%202026-11-25%20150651.png)
+
+### Customer & Seller Analysis
+
+![Customer & Seller Analysis](Screenshot%202026-11-25%20150719.png)
+
+### Product Analysis
+
+![Product Analysis](Screenshot%202026-11-25%20150740.png)
+
+### Payment & Order Analysis
+
+![Payment & Order Analysis](Screenshot%202026-11-25%20150755.png)
+
+### Delivery & Review Analysis
+
+![Delivery & Review Analysis](Screenshot%202026-11-25%20150810.png)
+
 - ## Business Insights & Recommendations
 
 ### Key Business Insights
@@ -150,8 +170,8 @@ The dataset contains information about customers, orders, products, sellers, pay
 - [x] SQL business analysis
 - [x] Power BI dashboard development
 - [x] Business insights and recommendations
-- [ ] Dashboard screenshots
-- [ ] Final README documentation
+- [x] Dashboard screenshots
+- [x] Final README documentation
 
 ## Author
 
